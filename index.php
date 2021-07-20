@@ -1,1 +1,2 @@
-<?phpinclude("todolist.html"); ?> 
+<?php include_once("home.html"); ?>
+ 
